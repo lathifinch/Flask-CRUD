@@ -8,3 +8,6 @@
 
 ### delete
 ![img 3](https://github.com/lathifinch/Flask-CRUD/blob/master/img/delete.png)
+
+### reference:
+### https://www.youtube.com/watch?v=Z1RJmh_OqeA
